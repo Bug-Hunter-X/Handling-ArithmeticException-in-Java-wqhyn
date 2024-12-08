@@ -1,0 +1,1 @@
+This repository demonstrates how to handle an ArithmeticException in Java, a less common runtime exception that often occurs when dividing by zero.  The example includes both the problematic code and a solution that shows best practices in exception handling, including the use of a finally block for cleanup.
